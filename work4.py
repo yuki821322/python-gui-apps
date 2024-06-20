@@ -51,7 +51,6 @@ button2.pack(pady=10)
 label2 = tk.Label(window, text="", bg=bg_color, fg=fg_color)
 label2.pack(pady=10)
 
-
 # ↓↓↓ お約束のコード ↓↓↓
 window.mainloop()
 # ↑↑↑ お約束のコード ↑↑↑
